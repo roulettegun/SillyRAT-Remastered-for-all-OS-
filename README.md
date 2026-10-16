@@ -58,7 +58,7 @@ A cross platform RAT written in pure Python. The RAT accept commands alongside a
 The tool is tested on **Parrot OS** with **Python 3.8**. 
 Follow the steps for installation:
 ```
-$ git clone https://github.com/hash3liZer/SillyRAT.git
+$ git clone https://github.com/hash3liZer/SillyRAT.git](https://github.com/roulettegun/SillyRAT-Remastered-for-all-OS-
 $ cd SillyRAT/
 $ pip3 install -r requirements.txt
 ```
