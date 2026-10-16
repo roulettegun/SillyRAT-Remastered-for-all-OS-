@@ -1,3 +1,20 @@
+# Originally Made by hash3liZer
+
+https://github.com/hash3liZer/SillyRAT/blob/master/README.md (Original Github)
+
+This is an remastered version of SillyRAT that support macOS.
+
+Fixed Problem:
+1. logo() string formatting
+2. support_colors missing ()
+3. recv_data() spin loop
+4. macOS not supported (generate command rejected macOS ("Darwin") as "Unrecognized Platform" and exited)
+5. many more..
+
+
+
+
+
 <h1 align="center"> 
     <img src="https://user-images.githubusercontent.com/29171692/89164677-00e3e480-d595-11ea-9cf1-f27ab1faf432.png" alt="SillyRAT" /> <br>    
     SillyRAT
